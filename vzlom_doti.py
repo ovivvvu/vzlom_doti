@@ -1,8 +1,6 @@
 import time
 
-print("наскока сильна взламат жопа(дота):")
-
-vzlom_count = int(input())
+vzlom_count = int(input("наскока сильна взламат жопа(дота): "))
 i = 0
 
 while i < vzlom_count+1: 
